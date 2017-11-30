@@ -1,0 +1,48 @@
+Ship ID: BB-12-92
+Name: BC2B
+Time In: 00:40
+Time Out: 02:00
+Credited Minutes: 60
+Extra Minutes: 20
+Fine: 40000 units
+
+Ship ID: DN-12-92
+Name: DKNY
+Time In: 01:30
+Time Out: 05:40
+Credited Minutes: 240
+Extra Minutes: 10
+Fine: 20000 units
+
+Ship ID: AT-GM-12
+Name: CLOUD
+Time In: 02:00
+Time Out: 03:01
+Credited Minutes: 60
+Extra Minutes: 1
+Fine: 2000 units
+
+Ship ID: BB-12-92
+Name: BC2B
+Time In: 00:40
+Time Out: 02:00
+Credited Minutes: 60
+Extra Minutes: 20
+Fine: 40000 units
+
+Ship ID: DN-12-92
+Name: DKNY
+Time In: 01:30
+Time Out: 05:40
+Credited Minutes: 240
+Extra Minutes: 10
+Fine: 20000 units
+
+Ship ID: AT-GM-12
+Name: CLOUD
+Time In: 02:00
+Time Out: 03:01
+Credited Minutes: 60
+Extra Minutes: 1
+Fine: 2000 units
+

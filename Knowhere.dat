@@ -1,0 +1,14 @@
+enter 00:01 Anneklein AK-03-92 60
+enter 00:05 Ninewest NW-06-92 120
+enter 00:40 BC2B BB-12-92 60
+exit AK-03-92 00:59
+enter 01:30 DKNY DN-12-92 240
+exit BB-12-92 02:00
+exit NW-06-92 02:04
+exit DN-12-92 05:40
+enter 01:45 SPNYC DN-13-92 60
+exit DN-13-92 02:01
+enter 02:00 ATLAS CL-GM-12 120
+enter 02:00 CLOUD AT-GM-12 60
+exit CL-GM-12 03:59
+exit AT-GM-12 03:01
